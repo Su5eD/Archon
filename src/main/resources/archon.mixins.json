@@ -18,7 +18,6 @@
     "EnchantingTableBlockMixin"
   ],
   "client": [
-    "client.InGameHudMixin",
     "client.PlayerEntityRendererMixin",
     "client.LivingEntityRendererMixin"
   ],
